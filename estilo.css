@@ -1,0 +1,41 @@
+header
+{
+    background: grey;
+    color:black;
+    text-align:center;
+}
+
+body
+{
+    background: grey;
+    font: normal 16pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+section
+{
+    background: white;
+    margin:auto;
+    text-align: center;
+    padding: 16px;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.363);
+
+}
+
+footer
+{
+    text-align: center;
+    font: normal 20pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+div
+{
+    background: white;
+    padding: 8px;
+    text-align: center;
+}
